@@ -1,0 +1,5 @@
+Challenge One
+Create a license plate reader that will read live video feeds and pull plates off vehicles that drive by
+
+Challenge Two
+Create a facial recognition that will read live video feeds and pull faces off people who walk by
